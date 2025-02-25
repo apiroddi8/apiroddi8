@@ -1,4 +1,4 @@
-Hi 👋 My name is Alessandro Piroddi
+Hi 👋 My name is Alessandro 
 ===================================
 
 * 🌍  I'm based in Sardinia, Italy
