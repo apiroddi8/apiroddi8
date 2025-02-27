@@ -9,8 +9,8 @@ My name is **Alessandro**, and I am a graduate student in **Data Science, Busine
 This page was created to collect and share my projects related to **Data Science, AI, and Analytics**. I am particularly interested in building **data-driven solutions** and exploring the latest advancements in AI. My repositories mainly focus on:
 
 - 📊 **Data Analysis & Visualization** (Python, Pandas, SQL, Matplotlib, Seaborn)
-- 🤖 **Machine Learning & Deep Learning** (Scikit-learn, TensorFlow, PyTorch)
-- 🏛 **Big Data & Databases** (SQL, PySpark, NoSQL, Google BigQuery)
+- 🤖 **Machine Learning & Deep Learning** (Scikit-learn)
+- 🏛 **Big Data & Databases** (SQL, PySpark)
 - 📝 **Reports and Documentation** to clearly explain methodologies and insights
 
 ## 🚀 Future Directions
@@ -18,7 +18,6 @@ This page was created to collect and share my projects related to **Data Science
 In the coming months, I aim to:
 
 - Dive deeper into **Generative AI and Transformer models**
-- Experiment with **MLOps and model deployment
 
 
 ### Skills
